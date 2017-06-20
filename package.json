@@ -1,0 +1,13 @@
+{
+  "name": "day05photos",
+  "version": "1.0.0",
+  "description": "jolno's photos package",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hanjolno",
+  "license": "ISC"
+}
